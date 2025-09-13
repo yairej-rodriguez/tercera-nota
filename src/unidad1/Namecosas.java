@@ -10,7 +10,7 @@ public class Namecosas {
     plus = sc.nextInt ();
       sc.nextLine();
     String[] lista = new String[plus];
-    for(int i = 1; i = plus ; i++ ) {
+    for(int i = 1; i == plus ; i++ ) {
       System.out.println (" ingrese un item a la lista. ");  
        lista[i] = sc.nextLine();
     }

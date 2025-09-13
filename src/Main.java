@@ -19,7 +19,9 @@ public class Main {
         System.out.println("Multiplicación: " + multiplicacion);
         System.out.println("División: " + division);
         System.out.println("Módulo: " + modulo);
-        sc.close(); 
+
+    sc.close(); 
+    
     }
 }
 
