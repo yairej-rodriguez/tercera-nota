@@ -10,5 +10,5 @@ public class pares1Al100 {
          System.out.println( " el numero es impar ");
       }
     }    
-}
-}
+} 
+} 
