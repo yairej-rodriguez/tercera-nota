@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class InventarioTienda {
+public class inventarioTienda {
 
     // Arrays para almacenar información de los productos
     static String[] nombres;      // Nombres de los productos
