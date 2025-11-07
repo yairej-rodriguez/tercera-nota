@@ -1,4 +1,4 @@
-package Ejercios_practicos ;
+package ejercios_practicos;
 
 public class IntercanbiodeValores {
       public static void intercambiar (int a, int b) {
