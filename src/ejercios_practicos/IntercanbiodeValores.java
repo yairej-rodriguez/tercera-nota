@@ -18,8 +18,6 @@ public class IntercanbiodeValores {
         System.out.println(" valor de b despues del metodo: " +b);
     }
 
-    
-    
 }
 
      

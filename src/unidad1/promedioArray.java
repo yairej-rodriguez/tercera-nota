@@ -21,5 +21,6 @@ public class promedioArray {
 
         // Imprimir el resultado
         System.out.println("El promedio es: " + promedio);
-    }
+        scanner.close();
+    }   
 }

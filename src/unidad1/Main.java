@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-         Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.print("Ingrese el primer número: ");
         int numero1 = sc.nextInt();
         System.out.print("Ingrese el segundo número: ");
@@ -19,7 +19,9 @@ public class Main {
         System.out.println("Resta: " + resta);
         System.out.println("Multiplicación: " + multiplicacion);
         System.out.println("División: " + division);
-        System.out.println("Módulo: " + modulo); 
-     sc.close(); 
+        System.out.println("Módulo: " + modulo);
+
+    sc.close(); 
     }
-} 
+}
+
