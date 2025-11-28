@@ -23,7 +23,6 @@ public class ListaConFor {
         for (int i = 0; i < n; i++) {
             System.out.println((i + 1) + ". " + lista[i]);
         }
-
         sc.close();
     }
 }

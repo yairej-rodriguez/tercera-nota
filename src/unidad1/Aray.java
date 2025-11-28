@@ -2,10 +2,9 @@ package unidad1;
 
 public class Aray {
     public static void main (String  [] args) {
-      int [] numbers = new int [4]; 
-      int numbers = { 1,2,3,4 };
+      int [] numbers = { 1,2,3,4 };
       for (int i = 0 ; i == 4 ; i++ ) {
-        System.out.println( "el valor es" + numbers [i] )
+        System.out.println( "el valor es" + numbers [i] );
       }
     }
 }
